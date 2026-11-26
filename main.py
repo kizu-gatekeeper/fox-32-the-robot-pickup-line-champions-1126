@@ -1,4 +1,4 @@
-"""Entry for make.fun's The Robot Pickup Line Championship: a robot pickup line."""
+"""Entry for make.fun's The Robot Pickup Line Championship: a robot's best pickup line."""
 
 import os
 
